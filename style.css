@@ -1,0 +1,14 @@
+.wattsapp{
+    border-radius: 50%;
+  height: 180px;
+}
+hr {
+    border: dotted #7ae1e1 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.ppw{
+    text-align: left;
+}
